@@ -28,3 +28,8 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
+吉林大学 计算机科学与技术 (2027届)
+
+Java 后端初学者。
+
+意向2027届毕业直接就业，专注于后端开发方向。欢迎各位朋友/前辈一起交流学习心得和技术实践！
