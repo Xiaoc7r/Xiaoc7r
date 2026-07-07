@@ -7,6 +7,6 @@
 
 2026.04 拿了百度、快手、知乎等offer，最终选择入职京东JDY后端开发
  
-<a href="https://www.xiaohongshu.com/user/profile/60b8c2770000000020024532" style="text-decoration:none;"> <img src="https://img.shields.io/badge/小红书-Nix-FF0036?style=flat-square&logoColor=white" alt="小红书"/> </a> &nbsp; ...
+<a href="https://www.xiaohongshu.com/user/profile/60b8c2770000000020024532" style="text-decoration:none;"> <img src="https://img.shields.io/badge/小红书-炒肉多-FF0036?style=flat-square&logoColor=white" alt="小红书"/> </a> &nbsp; ...
 
 
