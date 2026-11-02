@@ -15,7 +15,7 @@
 <p>
   <a href="https://www.xiaohongshu.com/user/profile/60b8c2770000000020024532">
   </a>
-  &nbsp; 秋招中...
+做有意义的事。
 </p>
 
 <br clear="both"/>
