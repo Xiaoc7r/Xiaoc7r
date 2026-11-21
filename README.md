@@ -15,7 +15,7 @@
 <p>
   <a href="https://www.xiaohongshu.com/user/profile/60b8c2770000000020024532">
   </a>
-做有意义的事。
+做无意义的事。
 </p>
 
 <br clear="both"/>
